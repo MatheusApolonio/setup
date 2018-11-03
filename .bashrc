@@ -33,10 +33,4 @@ function git-clean() {
     git branch --merged | grep -v "\*" | grep -v "master" | grep -v "develop" | grep -v "staging" | xargs -n 1 git branch -d
 }
 
-function git-commit() {
-    git add .
-    git commit -m $1
-    git push
-}
-
 cd F:/
