@@ -1,3 +1,7 @@
+function emulator() {
+    F:/SDK/tools/emulator -avd Pixel -no-boot-anim &
+}
+
 function git-branch() {
     BRANCH=$1
     if [[ "$BRANCH" =~ ^feature/f-*|^hotfix/h-* ]]; then
