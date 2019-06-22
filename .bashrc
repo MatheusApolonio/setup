@@ -1,7 +1,3 @@
-function emulator() {
-    F:/SDK/tools/emulator -avd Pixel -no-boot-anim &
-}
-
 function git-branch() {
     BRANCH=$1
     if [[ "$BRANCH" =~ ^feature/f-*|^hotfix/h-* ]]; then
@@ -34,11 +30,13 @@ function git-clean() {
 }
 
 function gc() {
-  COMMIT_MESSAGE=$1
-
   git add .
   git commit -m "$1"
   git push
+}
+
+function gb() {
+  git-branch $1
 }
 
 alias gs='git status'
