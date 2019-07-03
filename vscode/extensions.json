@@ -1,0 +1,162 @@
+[
+  {
+    "metadata": {
+      "id": "5a6e2b21-1d61-4acd-b31b-907f9c23f18a",
+      "publisherId": "CoenraadS.bracket-pair-colorizer-2",
+      "publisherDisplayName": "CoenraadS"
+    },
+    "name": "bracket-pair-colorizer-2",
+    "publisher": "CoenraadS",
+    "version": "0.0.28"
+  },
+  {
+    "metadata": {
+      "id": "69b4faf7-8a21-456a-9058-60b58e5791ce",
+      "publisherId": "BorisA.calc",
+      "publisherDisplayName": "BorisA"
+    },
+    "name": "calc",
+    "publisher": "BorisA",
+    "version": "0.0.1"
+  },
+  {
+    "metadata": {
+      "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
+      "publisherId": "Shan.code-settings-sync",
+      "publisherDisplayName": "Shan"
+    },
+    "name": "code-settings-sync",
+    "publisher": "Shan",
+    "version": "3.3.1"
+  },
+  {
+    "metadata": {
+      "id": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7",
+      "publisherId": "streetsidesoftware.code-spell-checker",
+      "publisherDisplayName": "streetsidesoftware"
+    },
+    "name": "code-spell-checker",
+    "publisher": "streetsidesoftware",
+    "version": "1.7.17"
+  },
+  {
+    "metadata": {
+      "id": "a669e675-9cb2-48a8-983d-33a1c4ed10ef",
+      "publisherId": "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+      "publisherDisplayName": "streetsidesoftware"
+    },
+    "name": "code-spell-checker-portuguese-brazilian",
+    "publisher": "streetsidesoftware",
+    "version": "0.1.0"
+  },
+  {
+    "metadata": {
+      "id": "d0bfc4ab-1d3a-4487-8782-7cf6027b4fff",
+      "publisherId": "ms-vscode.csharp",
+      "publisherDisplayName": "ms-vscode"
+    },
+    "name": "csharp",
+    "publisher": "ms-vscode",
+    "version": "1.20.0"
+  },
+  {
+    "metadata": {
+      "id": "816d44eb-5e28-431b-be81-2c52551d81ea",
+      "publisherId": "mitchdenny.ecdc",
+      "publisherDisplayName": "mitchdenny"
+    },
+    "name": "ecdc",
+    "publisher": "mitchdenny",
+    "version": "1.3.0"
+  },
+  {
+    "metadata": {
+      "id": "081cd2e9-bc51-4ea3-977e-544bed2e33a8",
+      "publisherId": "bierner.emojisense",
+      "publisherDisplayName": "bierner"
+    },
+    "name": "emojisense",
+    "publisher": "bierner",
+    "version": "0.5.1"
+  },
+  {
+    "metadata": {
+      "id": "5db78037-f674-459f-a236-db622c427c5b",
+      "publisherId": "PKief.material-icon-theme",
+      "publisherDisplayName": "PKief"
+    },
+    "name": "material-icon-theme",
+    "publisher": "PKief",
+    "version": "3.8.0"
+  },
+  {
+    "metadata": {
+      "id": "dff6b801-247e-40e9-82e8-8c9b1d19d1b8",
+      "publisherId": "christian-kohler.npm-intellisense",
+      "publisherDisplayName": "christian-kohler"
+    },
+    "name": "npm-intellisense",
+    "publisher": "christian-kohler",
+    "version": "1.3.0"
+  },
+  {
+    "metadata": {
+      "id": "a41c1549-4053-44d4-bf30-60fc809b4a86",
+      "publisherId": "christian-kohler.path-intellisense",
+      "publisherDisplayName": "christian-kohler"
+    },
+    "name": "path-intellisense",
+    "publisher": "christian-kohler",
+    "version": "1.4.2"
+  },
+  {
+    "metadata": {
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "publisherId": "esbenp.prettier-vscode",
+      "publisherDisplayName": "esbenp"
+    },
+    "name": "prettier-vscode",
+    "publisher": "esbenp",
+    "version": "1.9.0"
+  },
+  {
+    "metadata": {
+      "id": "6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b",
+      "publisherId": "mtxr.sqltools",
+      "publisherDisplayName": "mtxr"
+    },
+    "name": "sqltools",
+    "publisher": "mtxr",
+    "version": "0.19.6"
+  },
+  {
+    "metadata": {
+      "id": "55ef6448-487b-49a0-a66e-4d2d9bb82229",
+      "publisherId": "Prisma.vscode-graphql",
+      "publisherDisplayName": "Prisma"
+    },
+    "name": "vscode-graphql",
+    "publisher": "Prisma",
+    "version": "0.2.1"
+  },
+  {
+    "metadata": {
+      "id": "69ddd764-339a-4ecc-97c1-9c4ece58e36d",
+      "publisherId": "GitHub.vscode-pull-request-github",
+      "publisherDisplayName": "GitHub"
+    },
+    "name": "vscode-pull-request-github",
+    "publisher": "GitHub",
+    "version": "0.8.0"
+  },
+  {
+    "metadata": {
+      "id": "b35cd5b4-18db-46f9-ba9e-06096c3b22d3",
+      "publisherId": "msjsdiag.vscode-react-native",
+      "publisherDisplayName": "msjsdiag"
+    },
+    "name": "vscode-react-native",
+    "publisher": "msjsdiag",
+    "version": "0.10.0"
+  }
+]
